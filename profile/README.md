@@ -17,6 +17,6 @@ Game has been made using the [Godot engine](https://godotengine.org/) with versi
 
 ## Site
 
-For the site containing the project, the [VueJS](https://vuejs.org/) framework has been used.
+For the site containing the project, the [VueJS](https://vuejs.org/) framework has been used with TailwindCSS x DaisyUI
 
 
